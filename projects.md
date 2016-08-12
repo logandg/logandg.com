@@ -19,12 +19,9 @@ Roach is my perpetual labor of love side project. The idea is that we can unique
 ### [Flip](https://whatisflip.com)
 Flip is a classifieds app we built because we weren't happy with existing mobile classifieds solutions. We thought the mobile platform could allow a lot of safety and convenience features for something like local classifieds.
 
-Turns out building a mobile app with a two-sided marketplace from the ground up is really hard. Now we are taking what we've built and are turning it into a platform to license out to publishers with an existing audience (like local newspapers).
+
 
 ***
 
-## Other Projects
-
-\# TODO: get client references and projects for this section.
 
 
